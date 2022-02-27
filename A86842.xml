@@ -1,0 +1,192 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Humble petition of the well-affected of the county of South-Hampton in behalf of the ministers of the Gospel and for continuance of their maintenance. With Mr. Recorders speech. And the Parliaments answer thereunto.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86842</idno>
+            <idno type="STC">Wing H3583</idno>
+            <idno type="STC">Thomason E714_8</idno>
+            <idno type="STC">ESTC R202499</idno>
+            <idno type="EEBO-CITATION">99862754</idno>
+            <idno type="PROQUEST">99862754</idno>
+            <idno type="VID">166708</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86842)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166708)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 110:E714[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Humble petition of the well-affected of the county of South-Hampton in behalf of the ministers of the Gospel and for continuance of their maintenance. With Mr. Recorders speech. And the Parliaments answer thereunto.</title>
+                  <author>Hooper, Cornelius.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Ibbitson dwelling in Smithfield neer Hosier Lane.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Mr. Recorder [of Winchester] = Cornelius Hooper.</note>
+                  <note>Dated 28 Sept. 1653.</note>
+                  <note>Annotation on Thomason copy: "Sept ye 30:".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Clergy --  Salaries, etc. --  Early works to 1800.</term>
+               <term>Clergy --  Salaries, etc. --  England --  Southampton --  Early works to 1800.</term>
+               <term>Tithes --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166708:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 18 -->
+            <p>The humble PETITION OF The Well-affected of the County OF SOUTH-HAMPTON IN Behalf of the Miniſters of the Goſpel and for continuance of their Maintenance.</p>
+            <p>With Mr. RECORDERS Speech.</p>
+            <p>AND The Parliaments Anſwer thereunto.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Ibbitſon</hi> dwelling in Smith<g ref="char:EOLhyphen"/>field neer Hoſier Lane. 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:166708:2"/>
+            <!-- PDF PAGE 19 -->
+            <pb n="1" facs="tcp:166708:2"/>
+            <!-- PDF PAGE 19 -->
+            <head>THE Humble PETITION of the wel-affected of the County of SOUTH-HAMPTON, IN Behalf of the Miniſters of the Goſpel and for continuance of their MAINTENANCE.</head>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Wedneſday</hi> 28 <hi>of September</hi> 1653.</date>
+               </dateline>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">C</seg>Ornelius Hooper</hi> Eſquire, Recorder of the City of <hi>Wincheſter; Edward Hoo<g ref="char:EOLhyphen"/>per, Henry Dawley, James Milles, and Robert Peſcod,</hi> Eſquires; were this day by Order of the Parliament called into the Houſe, and being brought in with the Mace before them, Mr. Recorder made a Speech as followeth.</p>
+         </div>
+         <div type="oration">
+            <pb n="2" facs="tcp:166708:3"/>
+            <!-- PDF PAGE 20 -->
+            <head>Mr. Recorders Speech.</head>
+            <opener>
+               <salute>May it pleaſe you Mr. Speaker,</salute>
+            </opener>
+            <p>THeſe Gentlemen, with my ſelf, do hum<g ref="char:EOLhyphen"/>bly preſent you with a Petition from the well-affected Inhabitants of the County of <hi>Southampton;</hi> It is not for their own Intereſts but for the ancient Rights and Proprieties of the Miniſters of this Nation, ſo ancient that they have injoyed them for 500 yeare and up<g ref="char:EOLhyphen"/>wards, &amp; are alſo confirmed to them by ſundry Acts &amp; Ordinances of Parliament, the fear they have of the ſhaking of thoſe Acts and Ordi<g ref="char:EOLhyphen"/>nances by a late Petition preſented unto your Honors from the County of <hi>Kent,</hi> hath cau<g ref="char:EOLhyphen"/>ſed them by us to make this humble Addreſſe unto you: It is uſuall for men that doe either fear or feele a ſtorme to ſeeke out for ſhelter, and in danger to flye to the ſanctuary; Parlia<g ref="char:EOLhyphen"/>ments through all ſucceſſions of ages have been the reputed Shields and Aſylums to the Rights and Proprieties of the People, and we bleſſe God, that by his Providence wee have ſuch a Sanctuary as this at this time to fly unto: Such
+<pb n="3" facs="tcp:166708:3"/>
+               <!-- PDF PAGE 20 -->
+a one that we may ſay of it, as was ſaid of <hi>Salo<g ref="char:EOLhyphen"/>mons</hi> Throne, <hi>The like was never to be ſeen in our Nation before.</hi>
+            </p>
+            <floatingText type="letter">
+               <body>
+                  <opener>
+                     <salute>Mr. Speaker,</salute>
+                  </opener>
+                  <p>Your Petitioners glories not in great Atten<g ref="char:EOLhyphen"/>dance, nor in an innumerable traine of names, yet if we had hoped thereby to have obtained the more favor in your Honors eyes, we might have had many thouſands to have ſubſcribed it; As it is we humbly preſent it unto you: And with all humility crave the favour of your gra<g ref="char:EOLhyphen"/>cious Acceptance.</p>
+                  <p>The Petitioners were then deſired to with<g ref="char:EOLhyphen"/>draw. And then the Petition was read, and is as followeth:</p>
+               </body>
+            </floatingText>
+         </div>
+         <div type="text">
+            <head>To the Supream Authority of the Nation, the Parliament of the Commonwealth of <hi>England.</hi> The humble Petition of many of the well-affected of the County of <hi>Southampton,</hi> and Town and County thereof.</head>
+            <opener>Sheweth,</opener>
+            <p>THat your Petitioners taking notice of a late petition to this Honourable Aſſembly exhibited in the name of many of the well-affected of the County of <hi>Kent,</hi>
+               <pb n="4" facs="tcp:166708:4"/>
+               <!-- PDF PAGE 21 -->
+by which they deſire Tithes of all ſorts root and branch may bee aboliſhed, and that they may not bee enſnared with forced maintenance, or any thing like it in the ſtead thereof. Being herein of different judgements from them, and fore-ſeeing the great miſery and diſtreſſe that there<g ref="char:EOLhyphen"/>by inevitably muſt befall the Miniſters of the Goſpell and their families, Impropriators of Tithes and their fa<g ref="char:EOLhyphen"/>milies, having for the moſt part of them none other live<g ref="char:EOLhyphen"/>lihood wherewith to ſuſtain their charge, and moved with a deep ſenſe thereof, and with bowels of compa<g ref="char:EOLhyphen"/>ſſion towards their Brethren, as fellow-members of one and the ſame Body:
+<q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="petition">
+                           <p>Doe humbly deſire, that Tithes (which are above <hi>500</hi> years growth confirmed by <hi>Magna Charta,</hi> by di<g ref="char:EOLhyphen"/>vers and ſundry Acts and Ordinances of Parlia<g ref="char:EOLhyphen"/>ment unto this preſent time) may not have the axe laid to the root of it, nor cut downe, nor aboliſhed. That you (who are the Protectors of our Laws, lives, liberties and eſtates) will maintain and continue all the Laws, Statutes and Ordinances in force, for the due payment of Tithes, at leſt wiſe untill the right of Patrons bee legally determined, the Miniſters, faithfull diſpenſers of Gods word, may by ſome hono<g ref="char:EOLhyphen"/>rable, ſure and no leſſe profitable way bee provided for, and the Impropriators of Tithes ſatisfied for their reſpective intereſts, that equal right may bee done unto all men, whereby your Juſtice ſhall ſhine forth as the Sun at noon day throughout the world, have Gods bleſsing upon your endevours, and the unfeig<g ref="char:EOLhyphen"/>ned prayers of</p>
+                           <closer>
+                              <signed>Your humble Petitioners, &amp;c.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </p>
+            <p>
+               <pb n="5" facs="tcp:166708:4"/>
+               <!-- PDF PAGE 21 -->After a ſhort debate the Petitioners were a<g ref="char:EOLhyphen"/>gaine called in, to whom Mr. Speaker gave An<g ref="char:EOLhyphen"/>ſwer, That the Houſe had commanded him to give them thanks for their good Affections; And that the particulars by them petitioned for were under Debate, And the Parliament will proceed therein as God ſhall direct them.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
